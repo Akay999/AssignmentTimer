@@ -1,0 +1,23 @@
+.maincont {
+    display: flex;
+    flex-direction: column;
+}
+
+.Btn-func {
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: -7px -7px 4px rgba(255, 255, 255, 0.68);
+    margin-bottom: 5px;
+  
+}
+
+.Btn-func img {
+    vertical-align: middle;
+}
+
+.Btn-func:hover {
+    cursor: pointer;
+}
